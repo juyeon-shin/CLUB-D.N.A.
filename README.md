@@ -17,7 +17,6 @@
   
   
 ## 2021
-
 ### 01. 공공 데이터를 활용한 서울시 상권 분석
   + 2021.03.18 ~ 2021.05.20
   + 주제 : 공공데이터를 이용한 서울시 상권 분석
@@ -87,3 +86,15 @@
   + 케글 : 다이아몬드 가격 예측
   + https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices?resource=download
   + 노션 링크
+
+### 202209-10 앱 사용성 데이터를 통한 대출신청 예측 분석
++ 2022.09.08 ~ 2022.10.14
++ 빅콘 : 데이터분석리그_데이터분석분야_퓨처스부문
++ https://www.bigcontest.or.kr/points/content.php#ct04
++ https://juyeon-coding.notion.site/4674e4b642c54563a1b7aabd7bd3d807
+
+### 202301 월간 데이콘 신용카드 사용자 연체 예측 AI 경진대회
++ 2023.01.02 ~ 2023.02.02
++ 주제 : 월간 데이콘 신용카드 사용자 연체 예측 
++ https://dacon.io/competitions/official/235713/data
++ https://juyeon-coding.notion.site/DACON-AI-608e007946a44dbbbb919768be711a5a
